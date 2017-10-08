@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arkit2", "Assembly-CSharp.csproj", "{2953A252-0683-D332-B499-E187AE0181F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arkit2", "Assembly-CSharp-Editor.csproj", "{E99BAC0B-138B-1332-BE09-57BDF78F06E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2953A252-0683-D332-B499-E187AE0181F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2953A252-0683-D332-B499-E187AE0181F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2953A252-0683-D332-B499-E187AE0181F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2953A252-0683-D332-B499-E187AE0181F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99BAC0B-138B-1332-BE09-57BDF78F06E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99BAC0B-138B-1332-BE09-57BDF78F06E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99BAC0B-138B-1332-BE09-57BDF78F06E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99BAC0B-138B-1332-BE09-57BDF78F06E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
